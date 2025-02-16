@@ -3,7 +3,7 @@
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | --- | --- | --- | --- | --- | --- | --- |
-| **10:50-11:30** | Bengali (RKM) | Math (TS) | English (SM) | Geography (NKS) | History (APD) | English (DKD) |
+| **10:50-11:30** | English (DKD) | Math (TS) | English (SM) | Geography (NKS) | History (APD) | Bengali (RKM) |
 | **11:30-12:10** | Math (RNP) | English (DKD) | Bengali (AP) | Bengali (JS) | Math (TS) | Math (RNP) |
 | **12:10-12:50** | Science (SP) | Work Edu (SKB) | Math (RNP) | Physical Edu (TB) | English (SM) | Bengali (RKM) |
 | **12:50-1:30** | History (APD) | Bengali (JS) | Geography (AS) | History (APD) | Work Edu (SKB) | Science (PO) |
